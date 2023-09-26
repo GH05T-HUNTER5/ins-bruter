@@ -35,6 +35,8 @@ cd ins-bruter
 python3 ins-bruter
 ```
 
+<i>It can only be tried once a day and after that it will not work properly</i>
+
 ## Features
 
 - Find your lost Instagram account password.
