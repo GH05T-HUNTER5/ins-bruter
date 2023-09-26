@@ -6,7 +6,6 @@
 <img src="https://media.tenor.com/qMER41oNWx8AAAAC/youve-been-hacked-gregory-brown.gif">
 
 ## Installation {Kali}
-### BruteForce (ins-bruter)
 
 ```
 apt install git
@@ -24,33 +23,6 @@ cd ins-bruter
 python3 ins-bruter
 ```
 
-### Termux {Installation}
-
-```
-pkg install git
-```
-
-```
-git clone https://github.com/GH05T-HUNTER5/ins-bruter 
-```
-
-```
-cd ins-bruter 
-```
-
-```
-bash setup.sh 
-```
-
-```
-python3 ins-bruter
-```
-
-
-<img src="https://k.top4top.io/p_25343fuqr2.jpg" alt="GH05T INSTA PASSWORD LIST" >
-
-<b> Create your own password list : <a href="https://github.com/GH05T-HUNTER5/mypass">random passwords</a></b>
-
 ### Why GH05T-INSTA
 
 <i>* You can find your Instagram account password.</i>
@@ -64,10 +36,6 @@ python3 ins-bruter
 <i>* Errors are automatically detected and resolved </i>
 
 <i>* The gh05t tool is always an anonymous attack (Safe to use) <i>
-
-```
-If there are any errors, please uninstall {gh05t uninstall all} and reinstall gh05t {git clone https://github.com/GH05T-HUNTER5/GH05T-INSTA 
-```
 
 ### Pro Tips
 
@@ -83,14 +51,6 @@ If there are any errors, please uninstall {gh05t uninstall all} and reinstall gh
 <a href="https://github.com/GH05T-HUNTER5">GitHub</a>
 
 <a href="https://t.me/GH05T_HUNTER5">Telegram</a>
-
-<a href="https://www.instagram.com/gh05t_hunter5/">Instagram</a>
-
-<a href="https://youtube.com/channel/UCLoaCSIy4qzx7X2HCjbD8LA">YouTube</a>
-
-<a href="https://mobile.twitter.com/gh05_thunter5">Twitter</a>
-
-<a href="https://gh05thunter5.blogspot.com/2022/07/blog-post.html?m=1">Blogs</a>
 
 <b>Legal disclaimer</b>
 
