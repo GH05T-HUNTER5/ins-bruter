@@ -6,6 +6,28 @@
 
 ins-bruter is a powerful Instagram password recovery tool designed to help users regain access to their own Instagram accounts. This tool can be used on both rooted and non-rooted Android devices. We regularly update and upload password dictionaries to ensure its effectiveness. GH05T-INSTA is built with user privacy in mind, as it automatically handles IP address changes and resolves errors seamlessly, making it a safe choice for account recovery.
 
+## INSTALLATION
+
+```
+python -version
+```
+
+```
+pip install requests
+```
+
+```
+git clone https://github.com/GH05T-HUNTER5/ins-bruter
+```
+
+```
+cd ins-bruter
+```
+
+```
+python3 ins-bruter
+```
+
 ## Features
 
 - Find your lost Instagram account password.
