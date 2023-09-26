@@ -2,6 +2,8 @@
 
 ![GH05T-INSTA Logo](https://media.tenor.com/qMER41oNWx8AAAAC/youve-been-hacked-gregory-brown.gif)
 
+<small>If this tool gets 500 stars, we will add more functions and lots of code</small>
+
 ## Introduction
 
 Ins-Bruter is a robust Instagram account recovery tool designed to assist users in regaining access to their Instagram accounts. This versatile tool is compatible with both rooted and non-rooted Android devices. We maintain regular updates to our password dictionaries to ensure its effectiveness. Ins-Bruter places a strong emphasis on user privacy by automatically managing IP address changes and seamlessly resolving errors, making it a secure and reliable choice for account recovery.
