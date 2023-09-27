@@ -28,10 +28,6 @@ apt install tor
 ```
 
 ```
-python -version
-```
-
-```
 pip install requests
 ```
 
