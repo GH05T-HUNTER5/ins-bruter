@@ -17,6 +17,9 @@ Ins-Bruter is a robust Instagram account recovery tool designed to assist users 
 - It may not work properly due to many limitations of Instagram
 - Here we provide a link of a book to know more about Instagram hacking methods : <a href="https://t.me/GH05T_HUNTER5/475">Click</a>
 
+## Working
+
+- It works well with Kali Linux, Parrot and Termux app
 
 ## INSTALLATION
 
